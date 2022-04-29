@@ -1,6 +1,6 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
 ### Hello World!🙋🏻‍♀️ 
 I have been studying for the better next stage of my life!
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cge1023&layout=compact)](https://github.com/cge1023/github-readme-stats)
