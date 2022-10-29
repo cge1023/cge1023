@@ -1,6 +1,7 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90)
 
- ### Welcome to my page! 🙋🏻‍♀️  <br>
+### Welcome to my page! 🙋🏻‍♀️  <br>
 I am Kaylyn, Front-end developer from Seoul, South Korea 🇰🇷
 
 ---
@@ -38,3 +39,4 @@ const Kaylyn = {
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+ </div>
