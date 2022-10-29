@@ -19,6 +19,21 @@ I am Kaylyn, Front-end developer from Seoul, South Korea 🇰🇷
 
 ---
 
+### A little more about me 👩🏻‍💻  
+
+```javascript
+const Kaylyn = {
+  pronouns: "she" | "her",
+  school : "GWNU",
+  major : "Information Technology",
+  code: [HTML, CSS, JavaScript],
+  tools: [React, Redux, Bootstrap, jQuery, Styled-Components],
+  challenge: "I will be starting #100dayscodechallenge to improve my Typescript skills. Anybody who wants to join me, follow @choicoding on IG😀"
+}
+```
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cge1023&layout=compact)](https://github.com/cge1023/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cge1023&show_icons=true)
